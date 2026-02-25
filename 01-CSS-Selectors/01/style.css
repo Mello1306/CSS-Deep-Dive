@@ -1,0 +1,16 @@
+
+h1 {
+    color: red;
+    font-size: 30px;
+}
+
+
+.blue-text {
+    color: blue;
+}
+
+
+#unique-text {
+    color: green;
+    text-decoration: underline;
+}
